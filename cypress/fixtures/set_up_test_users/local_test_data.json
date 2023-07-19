@@ -1,0 +1,49 @@
+{
+    "test_group_name": "JV Test Group",
+    "test_company_name": "JV Test Company",
+    "test_company_email": "test@company.io",
+    "test_campaign_name": "Test Campaign",
+    "test_campaign_dnis": "7777770004",
+    "test_campaign_time_zone_id": "Moscow",
+    "test_users": {
+        "agent": {
+            "first_name": "JV Agent",
+            "last_name": "Test",
+            "role_name": "Agent",
+            "agent_type": "Employee",
+            "pay_rate": 23,
+            "currency_field": "CAD",
+            "all_companies": false,
+            "all_campaigns": false,
+            "campaign_ids": []
+          },
+        "team_lead": {
+            "first_name": "JV Team Lead",
+            "last_name": "Test",
+            "role_name": "Team Lead",
+            "pay_rate": 23,
+            "currency_field": "CAD",
+            "all_companies": false,
+            "all_campaigns": false,
+            "campaign_ids": []
+        },
+        "agent_supervisor": {
+            "first_name": "JV Agent Supervisor",
+            "last_name": "Test",
+            "role_name": "Agent Supervisor",
+            "pay_rate": 23,
+            "currency_field": "CAD",
+            "all_companies": false,
+            "all_campaigns": false,
+            "campaign_ids": []
+        },
+        "campaign_manager": {
+            "first_name": "JV Campaign Manager",
+            "last_name": "Test",
+            "role_name": "Campaign Manager",
+            "all_companies": false,
+            "all_campaigns": false,
+            "campaign_ids": []
+        }
+    }
+}

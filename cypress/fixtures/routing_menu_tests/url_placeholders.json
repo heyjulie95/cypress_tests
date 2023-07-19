@@ -1,0 +1,13 @@
+{
+    "user_id": 1,
+    "company_name": "cornell_company_1687959211",
+    "int:campaign_id": 1,
+    "int:status_id": 1,
+    "int:disposition_id": 3,
+    "int:campaign_type_id": 1,
+    "int:agent_type_id": 1,
+    "int:agent_groupe_id": 1,
+    "int:call_statistic_id": 2,
+    "int:inquiry_id": 36,
+    "int:client_id": 1
+}

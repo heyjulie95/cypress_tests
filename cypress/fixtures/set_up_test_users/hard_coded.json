@@ -1,0 +1,7 @@
+{
+  "hardcoded_users": {
+    "admin": "admin@cal.com",
+    "super_admin": "super_admin@cal.com",
+    "schedule_supervisor": "schedule_supervisor@cal.com"
+  }
+}
